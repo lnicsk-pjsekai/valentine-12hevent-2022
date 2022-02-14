@@ -1817,11 +1817,14 @@ code {
 .post-list .post-item blockquote p {
   margin: 0;
 }
-.post-list .post-item blockquote:before {
+.post-list .post-item blockquote::before {
   margin-right: 0.25em;
   color: #66c0ff;
   content: "\201C";
   vertical-align: -0.4em;
   font-size: 2em;
   line-height: 0.1em;
+}
+.post-list .post-item blockquote footer cite::before {
+  content: " - ";
 }
