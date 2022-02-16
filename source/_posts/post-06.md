@@ -20,9 +20,9 @@ tags:
 
 <span class="base16character-tenmasaki">“那么——一会儿见。”</span>
 天马咲希招手，而后朝着同星乃一歌相反的方向走去，待她的身影完全消失在星乃一歌的视线中，星乃一歌才迈着有些仓促的步子前往打工的便利店。
-虽然已经到了晚冬，天气却依然不见得有多大改变，仍是凉飕飕的，不知哪一天才会突然变成春天。街上的行人颇多，大都成群结伴，霓虹灯和广告牌十分夺人眼球，这方写着：“新品爆款！可爱的猫猫巧克力！”那方写着：“朗姆酒和巧克力的完美碰撞～♡”总之四周的漂浮着甜腻的味道。
+虽然已经到了晚冬，天气却依然不见得有多大改变，仍是凉飕飕的，不知哪一天才会突然变成春天。街上的行人颇多，大都成群结伴，霓虹灯和广告牌十分夺人眼球，这方写着：<span class="base16chara-passerby">“新品爆款！可爱的猫猫巧克力！”</span>那方写着：<span class="base16chara-passerby">“朗姆酒和巧克力的完美碰撞～♡”</span>总之四周的漂浮着甜腻的味道。
 情人节快要来了啊。
-星乃一歌在一块木板前驻足，上面仅仅镌刻着：“手工DIY巧克力”，除此之外便没有其他装饰了。
+星乃一歌在一块木板前驻足，上面仅仅镌刻着：<span class="base16chara-passerby">“手工DIY巧克力”</span>，除此之外便没有其他装饰了。
 大概是一个月前的同一天，星乃一歌约定好和天马咲希在校门口会面。今天正巧两人的课都在这时结束，而星乃一歌打工的地方也碰巧给她放了一天的假，所以可以一起回家。
 路上，天马咲希难得用十分严肃的神情望向星乃一歌：<span class="base16character-tenmasaki">“小一，我觉得这样不行。”</span>
 星乃一歌被她的表情和不知所云的话语吓了一跳：<span class="base16character-hoshinoichika">“咲希，怎么了，是指什么不行？”</span>
@@ -39,15 +39,15 @@ tags:
 陷入回忆中，星乃一歌很快走到了便利店门口，和她搭班的同事向她打招呼，星乃一歌回以微笑。
 换好工作服出来后，星乃一歌就看见那位同事无精打采地趴在柜台上，双眼扫过店里游荡的顾客。
 <span class="base16character-hoshinoichika">“那个、这样被店长看见的话会被训斥哦？”</span>星乃一歌试探性地，用询问的语气说到。
-<span class="base16character-">“啊——星乃小姐，你不明白，你知道我们店这几周来卖得最好的东西是什么吗？”</span>
+<span class="base16chara-passerby">“啊——星乃小姐，你不明白，你知道我们店这几周来卖得最好的东西是什么吗？”</span>
 <span class="base16character-hoshinoichika">“巧克力？”</span>星乃一歌脱口而出。
-<span class="base16character-">“对！各式各样，各种口味，各种价位的巧克力，为什么呢？明明离情人节还有几天…明明是情人节这样的日子，我却找不到人送巧克力，也不会有人送我巧克力。”</span>
+<span class="base16chara-passerby">“对！各式各样，各种口味，各种价位的巧克力，为什么呢？明明离情人节还有几天…明明是情人节这样的日子，我却找不到人送巧克力，也不会有人送我巧克力。”</span>
 <span class="base16character-hoshinoichika">“哎？”</span>原来是因为这件事在烦恼吗，星乃一歌稍加思索，<span class="base16character-hoshinoichika">“不用这么纠结于本命巧克力，赠送好友义理巧克力也是不错的选择，而且我认为你一定会收到谁给的巧克力的。”</span>
-<span class="base16character-">“星乃小姐，也只有你会这么说了——”</span>同事突然弹起来，目光灼灼地盯着星乃一歌，<span class="base16character-hoshinoichika">“我会送你义理巧克力的。”</span>
+<span class="base16chara-passerby">“星乃小姐，也只有你会这么说了——”</span>同事突然弹起来，目光灼灼地盯着星乃一歌，<span class="base16character-hoshinoichika">“我会送你义理巧克力的。”</span>
 星乃一歌本打算拒绝，话到嘴边又咽了下去：<span class="base16character-hoshinoichika">“谢谢你，我也会回礼的。说起来，你有推荐的能教人做手工巧克力的地方吗？”</span>
-<span class="base16character-">“莫非……星乃小姐已经有恋人了吗？”</span>
+<span class="base16chara-passerby">“莫非……星乃小姐已经有恋人了吗？”</span>
 星乃一歌笑了笑，不好意思地点了点头。
-<span class="base16character-">“呜、连你也背叛了我！”</span>同事小姐浮夸地哭嚎了一句，<span class="base16character-">“我想想，P街上有家烘焙店，味道很不错，店员们人也很好，我记得是叫……”</span>
+<span class="base16chara-passerby">“呜、连你也背叛了我！”</span>同事小姐浮夸地哭嚎了一句，<span class="base16chara-passerby">“我想想，P街上有家烘焙店，味道很不错，店员们人也很好，我记得是叫……”</span>
 对方说出店名后，星乃一歌愣了一下。是咲希在打工的那家店啊……没关系的，没关系的吧？
 星乃一歌和店长确认日程表，调完班后走出便利店，坐在长椅上的天马咲希站了起来，将手中一杯冒着热气的奶茶递给她。
 星乃一歌喝了一口奶茶，是她平日喜欢的甜度，比她想象中冷了一些，想是已经在外面吹了很久的风了。
@@ -69,26 +69,26 @@ tags:
 <span class="base16character-hoshinoichika">“晚安。”</span>
 天马咲希将头埋在星乃一歌的肩膀处，让人安心的气息，似乎很快就能入眠。
 
-<span class="base16character-">“星乃同学。”</span>
+<span class="base16chara-passerby">“星乃同学。”</span>
 星乃一歌前脚刚迈出教学楼，就听见有人在叫自己。
 <span class="base16character-hoshinoichika">“有什么事吗？”</span>星乃一歌转过身，是刚刚和她上同一堂课的同学。
-<span class="base16character-">“有一个问题想请教一下。”</span>对方看起来有些气喘吁吁的。
+<span class="base16chara-passerby">“有一个问题想请教一下。”</span>对方看起来有些气喘吁吁的。
 <span class="base16character-hoshinoichika">“哎，我吗？”</span>
-<span class="base16character-">“对…因为觉得星乃同学一定会知道。”</span>
+<span class="base16chara-passerby">“对…因为觉得星乃同学一定会知道。”</span>
 没想到会有同学来问自己在哪里打工比较合适这样的问题……不过，这种事情肯定大家都有各自的理由吧。星乃一歌看了一眼手机屏幕。
 啊，已经这个时间了，得快一些。
 今天星乃一歌走的既不是打工的方向，也不是回家的方向。
 
-<span class="base16character-">“欢迎光临——”</span>
+<span class="base16chara-passerby">“欢迎光临——”</span>
 看起来像是店长的人爽朗地笑了笑。
 <span class="base16character-hoshinoichika">“打扰了。”</span>星乃一歌略带拘谨地走进店里，<span class="base16character-hoshinoichika">“这里…是不是可以教人做手工巧克力来着。”</span>
-<span class="base16character-">“嗯嗯，回答正确——”</span>
+<span class="base16chara-passerby">“嗯嗯，回答正确——”</span>
 <span class="base16character-tenmasaki">“小一？！”</span>
 天马咲希从木板后探出头来，戴着烘焙用的帽子和手套，大概是为了方便，平日里的双马尾扎成了单马尾，看起来更干练了一些，不过，不管怎么样看，还是很可爱啊。
 <span class="base16character-hoshinoichika">“啊…咲希。”</span>
-<span class="base16character-">“哎？是天马小姐认识的人吗？”</span>店长的视线在两人之前扫来扫去，然后拍了拍手，<span class="base16character-">“那就让天马小姐教这位客人做巧克力吧？”</span>
+<span class="base16chara-passerby">“哎？是天马小姐认识的人吗？”</span>店长的视线在两人之前扫来扫去，然后拍了拍手，<span class="base16chara-passerby">“那就让天马小姐教这位客人做巧克力吧？”</span>
 <span class="base16character-tenmasaki">“但是、店长，你明明知道我也……”</span>天马咲希难得露出了难为情的表情。
-<span class="base16character-">“有什么关系嘛，就这样决定了。”</span>店长将星乃一歌轻轻推了进去，<span class="base16character-">“那么两位请加油哦！看在熟人的份上，可以给点折扣也说不定哦。”</span>
+<span class="base16chara-passerby">“有什么关系嘛，就这样决定了。”</span>店长将星乃一歌轻轻推了进去，<span class="base16chara-passerby">“那么两位请加油哦！看在熟人的份上，可以给点折扣也说不定哦。”</span>
 星乃一歌望向四周，店内比从外面看起来大得多，这里的布置似乎是加大版的家庭厨房，或许可以这样理解，不远处还有位小姐在辛苦地融化黄油。
 <span class="base16character-tenmasaki">“刚刚听到声音还以为是产生幻觉了，结果真的是小一……啊，所以昨天的问题就是为了这个？”</span>天马咲希为了不打扰到一旁的人，刻意压低了声音。
 <span class="base16character-hoshinoichika">“嗯…有一部分是，抱歉没有提前告诉你。”</span>
@@ -99,8 +99,8 @@ tags:
 
 <span class="base16character-hoshinoichika">“我说，店长，我记得小咲希来的时候是不是说过除了打工还想学点烘培技巧之类的话。”</span>另一位客人已经走了，负责教导她的店员进入了休息时间。
 <span class="base16character-hoshinoichika">“嗯，对，可能主要是想做巧克力吧？”</span>
-<span class="base16character-">“这可真是……”</span>店员远远地望了一眼接近乎贴在一起的两人，<span class="base16character-">“看起来很高兴呢，就是那孩子吧。”</span>
-<span class="base16character-">“谁知道呢？”</span>店长意味深长地笑了笑。
+<span class="base16chara-passerby">“这可真是……”</span>店员远远地望了一眼接近乎贴在一起的两人，<span class="base16chara-passerby">“看起来很高兴呢，就是那孩子吧。”</span>
+<span class="base16chara-passerby">“谁知道呢？”</span>店长意味深长地笑了笑。
 
 天马咲希擦了擦额头上的汗：<span class="base16character-tenmasaki">“这样就，好了…虽然过程不太顺利，不过最后结果看起来还不错。”</span>
 <span class="base16character-hoshinoichika">“嗯，多亏了咲希，要是我一个人的话……”</span>
@@ -116,7 +116,7 @@ tags:
 虽然大概能猜到，但咲希说是秘密，那在她告诉自己之前，就一直将它看作秘密好了。星乃一歌收好手中的礼盒。
 <span class="base16character-tenmasaki">“现在最大的问题是，怎么会突然下雨啊——明明来的时候还好好的。”</span>天马咲希看了看屋檐上不断掉落的水滴。
 <span class="base16character-hoshinoichika">“刚刚在便利店拿一把便携式雨伞就好了……”</span>星乃一歌小声地叹了口气。
-<span class="base16character-">“两位小姐。”</span>店长的声音和她一起从店里走出，<span class="base16character-">“不介意的话，用这个吧，不过店里只剩这么一把了，十分抱歉。”</span>
+<span class="base16chara-passerby">“两位小姐。”</span>店长的声音和她一起从店里走出，<span class="base16chara-passerby">“不介意的话，用这个吧，不过店里只剩这么一把了，十分抱歉。”</span>
 <span class="base16character-tenmasaki">“不、怎么会，店长——太感谢你了。”</span>天马咲希的眼神一下亮了起来。
 <span class="base16character-hoshinoichika">“十分感谢你。”</span>星乃一歌接过伞。
 <span class="base16character-tenmasaki">“这样两个人一起打着伞走在雨中，还蛮符合现在的氛围呢。”</span>天马咲希的双马尾随着她的步子一摇一晃。

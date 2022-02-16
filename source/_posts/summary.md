@@ -1,6 +1,6 @@
 ---
 title: Summary
-author: 凪坤
+author: 凪坤 (the Dev)
 date: 2022-02-15 00:39:39
 tags:
 - icsk情人节12h
@@ -10,13 +10,13 @@ icsk 2022年情人节 12h 总结
 
 <!-- more -->
 
-## Main Group
+## Overview
 
-***icsk的北极圈花店***
+本次活动由来自群 ***icsk的北极圈花店*** 的**さち[^1]**老师组织并担任主催，于2022年1月10日公开[^2]并开始筹备，到2022年2月14日活动进行为止，历时35天。本次活动共计13份稿件，包括7份文字与6份画作。
 
-![](summary/1644944635_300px.jpeg)
+![](summary/1644944635-300px.jpeg)
 
-群号 `159857422`
+群组邀请二维码，群号为`159857422`，欢迎喜欢icsk的朋友前来玩耍。
 
 ## Timeline
 
@@ -43,3 +43,20 @@ icsk 2022年情人节 12h 总结
 * [星乃一歌](https://www.lofter.com/tag/星乃一歌)
 * [天马咲希](https://www.lofter.com/tag/天马咲希)
 * [**icsk情人节12h**](https://www.lofter.com/tag/icsk情人节12h)
+
+## References
+
+[^1]: LOFTER 用户 [罗曼快回来吃老子的草莓蛋糕！](https://llerjiguanqiang.lofter.com/)
+[^2]: LOFTER 文章 [icsk情人节12h群宣](https://llerjiguanqiang.lofter.com/post/1f0d6ff7_2b4581730/)
+[^3]: 数据截至 2022年2月16日`11:00`
+
+***感谢老师们的作品！***
+
+## Statistic
+
+> ***Attention!!***
+> * *以下内容为本次活动参与作品在[LOFTER](https://www.lofter.com/)上的数据统计[^3]，仅作为分析与日后活动时间安排参考用，绝无任何褒贬之意！*
+> * *在社交平台上影响作品人气数据的因素远不限于作品本身的质量好坏。*
+>   * *在此奉劝企图以作品的人气数据作为依据，比较作品之间的好坏之人，这样的行为只会展现你的无知。*
+
+![](summary/fig.jpeg)
